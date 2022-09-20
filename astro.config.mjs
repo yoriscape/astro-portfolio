@@ -16,7 +16,7 @@ import { setPublishedEditedDates } from "./src/lib/remark-auto-pub-edit-date.mjs
 import { setBlogContentPreview } from "./src/lib/remark-blog-content-preview.mjs";
 
 export default defineConfig({
-  site: "https://franciskafieh.com",
+  site: "https://Yoriscape.vercel.app",
   integrations: [
     robotsTxt({
       policy: [
